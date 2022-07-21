@@ -1,1 +1,1 @@
-# playdata 빅데이터 수업
+# playdata 파이썬 수업
