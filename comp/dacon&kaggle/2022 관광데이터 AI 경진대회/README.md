@@ -11,3 +11,4 @@
  
  # K-Fold사용, n_splits 5로 지정
  # 폴드별로 나온 model_pth들을 argmax로 앙상블
+ # public : 0.83405 / private : 0.84037
