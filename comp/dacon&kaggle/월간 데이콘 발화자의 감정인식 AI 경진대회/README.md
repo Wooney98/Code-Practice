@@ -1,3 +1,9 @@
+# 하이퍼파라미터 설정
+- EPOCHS = 10 # 반복 횟수
+- LR = 1e-5 # 학습률
+- BS = 8 # 배치 크기
+- SEED = 41 # 랜덤 시드
+
 ## roberta_base_5Fold.ipynb
 - public score : 0.38558
 - 형태소 분석기인 kiwi는 한국어에 특화된 분석기이다. nltk 등 영문에 특화된 분석기를 사용해야함.
