@@ -1,6 +1,10 @@
 # Kaggle 
 
-- (Kaggle) ml competition 백화점 고객 성별 예측 - 2st
+|Index | Title | Data Type | Problem (Metric) | Period | Public Score | Private Score | Top Percent |
+|:---:|---|---|---|---|---|---|---|
+|  1  | 빅데이터 양성과정 16기 자체 ML competition | 정형 | 회귀(AUC) |  2022.09.05 ~ 2022.-09.09 | Public: 0.78515 (4/7) | Private: 0.74294 (2/7) | 2등 |
+![image](https://user-images.githubusercontent.com/109335745/209620219-5cad6e22-5d96-4e9c-a525-f9b0437b0316.png)
+
 
 # Dacon 정식 대회
 
